@@ -54,8 +54,8 @@ input[type="text"] {
 
 /* Style the Generate QR Code button with light gray background */
 button {
-    background-color: #f0f0f0 !important; /* Light gray background */
-    color: #333 !important; /* Dark gray text color */
+    background-color: black !important; /* Light gray background */
+    color: black !important; /* Dark gray text color */
     border: none !important;
     border-radius: 5px !important;
     padding: 10px 20px !important;
